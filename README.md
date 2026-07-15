@@ -26,7 +26,7 @@ $ whoami
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**charmy-ai-portfolio**](https://github.com/Charmbytes/charmy-ai-portfolio) | AI-powered portfolio — visitors ask questions, a Groq-backed assistant answers grounded in my actual resume | React · FastAPI · Groq · WebGL |
+| [**AI Portfolio**](https://charmy-ai-portfolio-uxbg.vercel.app/) ・ [repo](https://github.com/Charmbytes/charmy-ai-portfolio) | AI-powered portfolio — visitors ask questions, a Groq-backed assistant answers grounded in my actual resume | React · FastAPI · Groq · WebGL |
 | [**llm-agent**](https://github.com/Charmbytes/llm-agent) | Agentic task automation system orchestrating 9 tools through a LangChain/LangGraph graph-based loop | LangChain · LangGraph · Python |
 | [**robotic-arm-simulator**](https://github.com/Charmbytes/robotic-arm-simulator) | Python kinematics engine (2D CCD + 3D DH/Jacobian IK) with interactive Three.js frontend | Python · Three.js |
 | [**ai-jobhunter**](https://github.com/Charmbytes/ai-jobhunter) | Local AI job & internship aggregator with fuzzy skills-alignment ranking and Flask dashboard | Python · Flask |
