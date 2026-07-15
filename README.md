@@ -14,7 +14,7 @@ I build agentic AI systems, backend services, and automation tools — the kind 
 ### 🔭 currently building
 ```
 $ git log --oneline -1
-▶ shipped: AI portfolio with Groq-powered conversational assistant
+▶ shipped: LLM task automation agent with Streamlit UI + live tool streaming
 
 $ whoami
 ▶ engineer who automates the unautomated
@@ -27,7 +27,7 @@ $ whoami
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**AI Portfolio**](https://charmy-ai-portfolio-uxbg.vercel.app/) ・ [repo](https://github.com/Charmbytes/charmy-ai-portfolio) | AI-powered portfolio — visitors ask questions, a Groq-backed assistant answers grounded in my actual resume | React · FastAPI · Groq · WebGL |
-| [**llm-agent**](https://github.com/Charmbytes/llm-agent) | Agentic task automation system orchestrating 9 tools through a LangChain/LangGraph graph-based loop | LangChain · LangGraph · Python |
+| [**LLM Task Agent**](https://github.com/Charmbytes/llm-agent) | Streamlit chat UI over a LangGraph agent loop — real web search, live weather, calculator, file I/O, SQLite memory, live tool-call streaming | LangChain · LangGraph · Groq · Streamlit |
 | [**robotic-arm-simulator**](https://github.com/Charmbytes/robotic-arm-simulator) | Python kinematics engine (2D CCD + 3D DH/Jacobian IK) with interactive Three.js frontend | Python · Three.js |
 | [**ai-jobhunter**](https://github.com/Charmbytes/ai-jobhunter) | Local AI job & internship aggregator with fuzzy skills-alignment ranking and Flask dashboard | Python · Flask |
 
