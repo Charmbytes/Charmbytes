@@ -1,20 +1,20 @@
 # hey, i'm Charmy ⚡
 
-**AI & Automation Engineer · Robotics Engineer**
-I use AI and automation to build smarter workflows and intelligent systems.
+**AI & Automation Engineer · IT Engineering Student**
+I build agentic AI systems, backend services, and automation tools — the kind of projects that force me to learn something new along the way.
 
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-blueviolet?style=flat-square)
 ![Backend](https://img.shields.io/badge/Backend-blue?style=flat-square)
 ![Robotics](https://img.shields.io/badge/Robotics-teal?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-orange?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square)
 
 ---
 
 ### 🔭 currently building
 ```
 $ git log --oneline -1
-▶ building an AI/ML project — stay tuned
+▶ shipped: AI portfolio with Groq-powered conversational assistant
 
 $ whoami
 ▶ engineer who automates the unautomated
@@ -22,15 +22,26 @@ $ whoami
 
 ---
 
+### 🚀 featured projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**charmy-ai-portfolio**](https://github.com/Charmbytes/charmy-ai-portfolio) | AI-powered portfolio — visitors ask questions, a Groq-backed assistant answers grounded in my actual resume | React · FastAPI · Groq · WebGL |
+| [**llm-agent**](https://github.com/Charmbytes/llm-agent) | Agentic task automation system orchestrating 9 tools through a LangChain/LangGraph graph-based loop | LangChain · LangGraph · Python |
+| [**robotic-arm-simulator**](https://github.com/Charmbytes/robotic-arm-simulator) | Python kinematics engine (2D CCD + 3D DH/Jacobian IK) with interactive Three.js frontend | Python · Three.js |
+| [**ai-jobhunter**](https://github.com/Charmbytes/ai-jobhunter) | Local AI job & internship aggregator with fuzzy skills-alignment ranking and Flask dashboard | Python · Flask |
+
+---
+
 ### 🛠 stack
 
-**Languages:** Python · C · C++ · Java · SQL · PostgreSQL
+**Languages:** Python · Java · TypeScript · SQL
 
-**AI / ML:** TensorFlow · PyTorch · Hugging Face
+**AI / ML & Agents:** LangChain · LangGraph · scikit-learn · NumPy · Pandas · Hugging Face
 
-**Computer Vision:** OpenCV
+**Backend:** FastAPI · Flask · REST APIs
 
-**Tools:** Git · GitHub
+**Data & Infra:** PostgreSQL · MySQL · Redis · Azure Blob Storage · Docker · Git
 
 ---
 
